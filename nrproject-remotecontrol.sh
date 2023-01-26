@@ -2,7 +2,7 @@
 #Network Research Project: Remote Control ARUN DASSE s13 cfc2407
 #Lecturer name: James
 
-echo 'Netwrok Research Project: Remote Control '
+echo 'Network Research Project: Remote Control '
 echo 'ARUN DASSE - s13'
 echo 'Leturer: JAMES'
 
